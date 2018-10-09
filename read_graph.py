@@ -1,7 +1,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 import collections
-import numpy as np
 
 
 # Reat the graph
@@ -25,18 +24,12 @@ print("Closeness Centrality: ", nx.closeness_centrality(G))
 # The node that appears more times in the shortest paths between two other nodes
 print("Closeness Centrality: ", nx.betweenness_centrality(G))
 
-#TODO degree distribution histogram
-
-
-
 ###################################################################################
-#Computing degree of the nodes and the respective number of nodes that have that degree
+# Computing degree of the nodes and the respective number of nodes that have that degree
 ###################################################################################
 
 # Get list with degrees of each node
 degree_sequence = sorted([d for n, d in G.degree()], reverse=True)
-
-print("###################################################################################")
 
 # Dic with how much time each degree appeared
 degreeCount = collections.Counter(degree_sequence)
