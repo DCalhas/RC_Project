@@ -23,4 +23,4 @@ airports_RC.ipynb - Open via [Github's web interface](https://github.com/DCalhas
 
 # Who made this?
 
-This project was developed by IST students David Calhas (80980) João Valente (81759).
+This project was developed by IST students David Calhas (80980) and João Valente (81759).
