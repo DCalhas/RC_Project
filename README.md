@@ -1,4 +1,4 @@
-# What is this?
+## Complex Networks Project
 
 This repository contains code developed for the first project 2018 edition of the Complex Networks class.
 The code repository includes the following files/ directories:
@@ -12,14 +12,6 @@ The code repository includes the following files/ directories:
 3. airports_RC.ipynb - A jupyter notebook document with the pyhton code used in the  project
 
 4. network_drawings.py - A python file used to generate the network_drawings directory.
-
-# How can I, as a teacher, check this out?
-
-network_drawings/* - Open like a normal .png file.
-
-network_drawings.py - Open like a normal .py file.
-
-airports_RC.ipynb - Open via [Github's web interface](https://github.com/DCalhas/RC_Project/blob/master/airports_RC.ipynb) or install [Jupyter Notebook](http://jupyter.org/) and open the file using it.
 
 # Who made this?
 
