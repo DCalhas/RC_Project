@@ -1,4 +1,4 @@
-## Complex Networks Project
+# Complex Networks Project
 
 This repository contains code developed for the first project 2018 edition of the Complex Networks class.
 The code repository includes the following files/ directories:
@@ -13,6 +13,6 @@ The code repository includes the following files/ directories:
 
 4. network_drawings.py - A python file used to generate the network_drawings directory.
 
-# Who made this?
+### Who made this?
 
 This project was developed by IST students David Calhas (80980) and João Valente (81759).
